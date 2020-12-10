@@ -41,3 +41,4 @@ texi/lookup.vr
 
 lisp/x-old/*
 doc/*
+dest/*
